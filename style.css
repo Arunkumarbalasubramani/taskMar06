@@ -1,0 +1,11 @@
+.container{
+    width: 10rem;   
+}
+.heading{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 5px solid rgb(255, 192, 76);
+}
